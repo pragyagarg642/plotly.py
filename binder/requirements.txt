@@ -14,3 +14,4 @@ networkx
 scikit-image
 datashader
 pyarrow
+dash_core_components
